@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="26da4a3f-5c33-4dd3-a986-6fa36b77a9bf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Deydam_Login/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deydam_Login/allure-results/33cc59ba-ac18-45f4-b3c5-be4b26b30bc4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deydam_Login/allure-results/3a1aee11-292b-4c2f-9623-5203b266fcf0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deydam_Login/allure-results/44944972-a8cd-4b25-9829-a2993345af11-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deydam_Login/allure-results/56d59405-756f-4087-ad2b-53b7221fa78b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deydam_Login/allure-results/99941396-ba88-4566-9b89-cc89d709efa4-container.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.4\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l6nI9PIzKNZ3BWaZJlGeT7xgWP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/Login" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\Documents\UI_Automation_Task\Selenium_Webdriver\Single_Test_Approach\Monosnap_SignIn\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/USER/Documents/UI_Automation_Task/Selenium_Webdriver/Single_Test_Approach/Monosnap_SignIn/testng.xml">
+    <configuration name="LoginTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Login.LoginTests" />
+      <module name="Monosnap_SignIn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/USER/Documents/UI_Automation_Task/Selenium_Webdriver/Single_Test_Approach/Monosnap_SignIn/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Monosnap_SignIn" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/USER/Documents/UI_Automation_Task/Selenium_Webdriver/Single_Test_Approach/Monosnap_SignIn/testng.xml" />
+        <item itemvalue="Application.LoginTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26da4a3f-5c33-4dd3-a986-6fa36b77a9bf" name="Default Changelist" comment="" />
+      <created>1606926329617</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606926329617</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1607099266335">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1607099266335" />
+    <state width="1237" height="160" key="GridCell.Tab.0.bottom" timestamp="1607098508412">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="160" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1607098508412" />
+    <state width="1237" height="160" key="GridCell.Tab.0.center" timestamp="1607098508412">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="160" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1607098508412" />
+    <state width="1237" height="160" key="GridCell.Tab.0.left" timestamp="1607098508412">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="160" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1607098508412" />
+    <state width="1237" height="160" key="GridCell.Tab.0.right" timestamp="1607098508412">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="160" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1607098508412" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1607038606929">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1607038606929" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1607099102612">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1607099102612" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Monosnap_SignIn$LoginTests.ic" NAME="LoginTests Coverage Results" MODIFIED="1607035781993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Login.*</FILTER>
+    </SUITE>
+  </component>
+</project>
