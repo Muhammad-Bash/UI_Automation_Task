@@ -9,7 +9,18 @@
       <change beforePath="$PROJECT_DIR$/../../../Facebook.side" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Daydam_SignUp_Automation.side" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deydam_Login/src/test/java/Login/LoginTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Deydam_Login/src/test/java/Login/LoginTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deydam_Login/target/test-classes/Login/LoginTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Deydam_Login/target/test-classes/Login/LoginTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deydam_Login/testng.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Facebook.side" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SignIn/SignInTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SignIn/SignInTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SignIn/SignInTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SignIn/SignInTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MonosnapSignIn/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/../MonosnapSignIn/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MonosnapSignIn/src/test/java/SignIn/SignInTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MonosnapSignIn/src/test/java/SignIn/SignInTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MonosnapSignIn/target/test-classes/SignIn/SignInTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MonosnapSignIn/target/test-classes/SignIn/SignInTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MonosnapSignIn/testng.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +37,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -52,7 +64,7 @@
       <recent name="C:\Users\USER\Documents\UI_Automation_Task\Selenium_Webdriver\Facebook_SignIn_2\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/USER/Documents/UI_Automation_Task/Selenium_Webdriver/Facebook_SignIn_2/testng.xml">
+  <component name="RunManager" selected="TestNG.SignInTests.testSuccessfulLogin">
     <configuration name="SignInTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SignIn.SignInTests" />
       <module name="Facebook_SignIn_2" />
@@ -76,10 +88,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SignInTests.testSuccessfulLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Facebook_SignIn_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SignIn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SignIn" />
+      <option name="MAIN_CLASS_NAME" value="SignIn.SignInTests" />
+      <option name="METHOD_NAME" value="testSuccessfulLogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/USER/Documents/UI_Automation_Task/Selenium_Webdriver/Facebook_SignIn_2/testng.xml" />
+        <item itemvalue="TestNG.SignInTests.testSuccessfulLogin" />
         <item itemvalue="Application.SignInTests" />
+        <item itemvalue="TestNG.C:/Users/USER/Documents/UI_Automation_Task/Selenium_Webdriver/Facebook_SignIn_2/testng.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -95,26 +126,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1607162030901">
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1607169141091">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1607162030901" />
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1607038064477">
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1607169141091" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1607294590603">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1607038064477" />
-    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1607038064477">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1607294590603" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1607294590603">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1607038064477" />
-    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1607038064477">
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1607294590603" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1607294590603">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1607038064477" />
-    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1607038064477">
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1607294590603" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1607294590603">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1607038064477" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1607294590603" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1607098705339">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
