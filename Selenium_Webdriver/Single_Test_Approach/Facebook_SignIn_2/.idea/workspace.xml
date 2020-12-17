@@ -5,102 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="767ea610-4aab-4914-8718-470926d18768" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Deydam_Login/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Deydam_Login/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Daydam_SignUp_Automation.side" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Facebook.side" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deydam_Login/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Deydam_Login/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deydam_Login/src/test/java/Login/LoginTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Deydam_Login/src/test/java/Login/LoginTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Deydam_Login/target/test-classes/Login/LoginTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Deydam_Login/target/test-classes/Login/LoginTests.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__com_google_inject_guice_no_aop_4_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_11_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__com_squareup_okio_okio_1_14_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__com_thoughtworks_qdox_qdox_2_0_M8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__commons_codec_commons_codec_1_13.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__commons_io_commons_io_2_8_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__io_github_bonigarcia_webdrivermanager_4_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__io_qameta_allure_allure_java_commons_2_13_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__io_qameta_allure_allure_model_2_13_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__io_qameta_allure_allure_testng_2_13_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_15.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_apache_commons_commons_compress_1_20.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_apache_httpcomponents_client5_httpclient5_5_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_apache_httpcomponents_core5_httpcore5_5_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_apache_httpcomponents_core5_httpcore5_h2_5_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_apache_maven_maven_aether_provider_3_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_apache_maven_maven_artifact_3_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_apache_maven_maven_core_3_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_apache_maven_maven_model_3_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_apache_maven_maven_model_builder_3_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_apache_maven_maven_plugin_api_3_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_apache_maven_maven_repository_metadata_3_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_apache_maven_maven_settings_3_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_apache_maven_maven_settings_builder_3_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_apache_maven_plugins_maven_compiler_plugin_maven_plugin_3_8_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_apache_maven_shared_maven_shared_incremental_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_apache_maven_shared_maven_shared_utils_3_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_apache_tika_tika_core_1_24_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_codehaus_plexus_plexus_classworlds_2_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_codehaus_plexus_plexus_compiler_api_2_8_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_codehaus_plexus_plexus_compiler_javac_2_8_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_codehaus_plexus_plexus_compiler_manager_2_8_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_codehaus_plexus_plexus_component_annotations_1_5_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_codehaus_plexus_plexus_interpolation_1_14.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_codehaus_plexus_plexus_java_0_9_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_codehaus_plexus_plexus_utils_2_0_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_jooq_joor_java_8_0_9_13.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_jsoup_jsoup_1_13_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_ow2_asm_asm_6_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_rauschig_jarchivelib_1_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_141_59.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_141_59.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_141_59.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_141_59.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_141_59.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_141_59.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_141_59.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_141_59.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_141_59.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_sonatype_aether_aether_api_1_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_sonatype_aether_aether_impl_1_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_sonatype_aether_aether_spi_1_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_sonatype_aether_aether_util_1_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_sonatype_plexus_plexus_cipher_1_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_sonatype_plexus_plexus_sec_dispatcher_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_sonatype_sisu_sisu_guice_noaop_2_1_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_sonatype_sisu_sisu_inject_bean_1_4_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_sonatype_sisu_sisu_inject_plexus_1_4_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_testng_testng_7_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/libraries/Maven__org_yaml_snakeyaml_1_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/Monosnap_SignIn.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/allure-results/37a90e9e-1877-4212-a7a4-d597f9042eb2-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/allure-results/e67de90e-8797-4982-98bb-898b74bb6240-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/debug.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/resources/chromedriver.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/src/test/java/Login/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/src/test/java/Login/.idea/Login.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/src/test/java/Login/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/src/test/java/Login/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/src/test/java/Login/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monosnap_SignIn/testng.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MonosnapSignIn/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/../MonosnapSignIn/debug.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,6 +29,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -134,7 +48,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MonosnapSignIn" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
@@ -142,7 +56,7 @@
       <recent name="C:\Users\USER\Documents\UI_Automation_Task\Selenium_Webdriver\Facebook_SignIn_2\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/USER/Documents/UI_Automation_Task/Selenium_Webdriver/Facebook_SignIn_2/testng.xml">
+  <component name="RunManager" selected="TestNG.SignInTests.testNegativeLogin">
     <configuration name="SignInTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SignIn.SignInTests" />
       <module name="Facebook_SignIn_2" />
@@ -166,10 +80,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SignInTests.testNegativeLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Facebook_SignIn_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SignIn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SignIn" />
+      <option name="MAIN_CLASS_NAME" value="SignIn.SignInTests" />
+      <option name="METHOD_NAME" value="testNegativeLogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignInTests.testSuccessfulLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Facebook_SignIn_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SignIn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SignIn" />
+      <option name="MAIN_CLASS_NAME" value="SignIn.SignInTests" />
+      <option name="METHOD_NAME" value="testSuccessfulLogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/USER/Documents/UI_Automation_Task/Selenium_Webdriver/Facebook_SignIn_2/testng.xml" />
+        <item itemvalue="TestNG.SignInTests.testNegativeLogin" />
+        <item itemvalue="TestNG.SignInTests.testSuccessfulLogin" />
         <item itemvalue="Application.SignInTests" />
+        <item itemvalue="TestNG.C:/Users/USER/Documents/UI_Automation_Task/Selenium_Webdriver/Facebook_SignIn_2/testng.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -185,29 +137,37 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1607162030901">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608033929131">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1607162030901" />
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1607038064477">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1608033929131" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1608070314979">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1607038064477" />
-    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1607038064477">
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1608070314979" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1607785338116">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1607038064477" />
-    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1607038064477">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1607785338116" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1607785338116">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1607038064477" />
-    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1607038064477">
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1607785338116" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1607785338116">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1607038064477" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1607785338116" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1607785338116">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1607785338116" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1607098705339">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1607098705339" />
+    <state x="91" y="1" key="new project wizard" timestamp="1607570010664">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="1" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1607570010664" />
   </component>
 </project>
